@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "NFT Tutorial",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx hardhat test",
+    "account": "npx hardhat account",
+    "compile": "npx hardhat compile"
   },
   "keywords": [
     "NFT",

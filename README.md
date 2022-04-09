@@ -1,5 +1,5 @@
-
 # simpleNFT
+
 This is a simple NFT application based on ERC721
 
 # Basic Sample Hardhat Project
@@ -18,3 +18,6 @@ node scripts/sample-script.js
 npx hardhat help
 ```
 
+## Demo
+
+[demo](/demo.PNG)
